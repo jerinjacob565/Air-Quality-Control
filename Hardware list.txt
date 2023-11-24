@@ -1,0 +1,8 @@
+ESP32 WROM
+Jumper Wire 
+DHT 11 Sensor (2)
+MQ-135 Air Quality Sensor
+16X2 LCD Display with i2c
+LED Bulb
+Resistor 
+Bread Board 
